@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>daeken.UnicornSharp</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>daeken</authors>
+    <owners>daeken</owners>
+    <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/daeken/UnicornSharp</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>$description$</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright Cody Brocious 2017</copyright>
+    <tags>unicorn emulation qemu</tags>
+  </metadata>
+</package>
